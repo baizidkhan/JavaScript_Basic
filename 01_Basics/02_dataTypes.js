@@ -30,6 +30,7 @@ let state;
 
 // Object 
 
+console.log(typeof Symbol);
 console.log(typeof"Bikhan");
 console.log(typeof null);
 console.log(typeof undefined);
